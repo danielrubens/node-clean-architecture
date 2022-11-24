@@ -9,6 +9,8 @@
     "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-standard": "^4.1.0",
     "git-commit-msg-linter": "^4.2.1",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.3",
     "typescript": "^4.9.3"
   },
   "name": "clean-architecture",
