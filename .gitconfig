@@ -1,0 +1,11 @@
+[credential]
+    helper = osxkeychain
+[user]
+    name = Daniel Rubens
+    email = danielrubensdaniel@gmail.com
+[push]
+    followTags = true
+[core]
+    editor = code --wait
+[alias]
+    s = !git status
