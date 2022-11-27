@@ -9,4 +9,5 @@ module.exports = {
       '.+\\.ts$': 'ts-jest'
     },
     roots: ['<rootDir>/src']
+    // jest --clearCache
   }
